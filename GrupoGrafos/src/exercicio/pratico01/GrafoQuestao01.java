@@ -40,6 +40,7 @@ public class GrafoQuestao01 {
 		
 	}
 	
+	@SuppressWarnings("serial")
 	public static class MyGraph extends SimpleGraph<Character, DefaultEdge>{
 		
 		private String[] edges = {
